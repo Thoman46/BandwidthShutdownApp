@@ -168,7 +168,7 @@ namespace BandwidthShutdown
                     }
                     else
                     {
-                        // Process.Start(new ProcessStartInfo("shutdown", "/s /t 0") { CreateNoWindow = true, UseShellExecute = false });
+                        Process.Start(new ProcessStartInfo("shutdown", "/s /t 0") { CreateNoWindow = true, UseShellExecute = false });
                     }
                 }
                 else
