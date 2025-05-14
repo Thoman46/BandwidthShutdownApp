@@ -37,10 +37,13 @@ A lightweight Windows utility that monitors your network bandwidth in real time 
 > ℹ️ Enable or disable test mode to simulate behavior without triggering an actual shutdown.
 
 ---
+
 ### 🖼️ UI Screenshots
-![App Launched](Docs/AppLaunched.png)
-![Started Monitoring](Docs/StartedMonitoring.png)
-![Shutdown Triggered](Docs/ShutdownTriggered.png)
+<p align="center">
+  <img src="Docs/AppLaunched.png" alt="Initial State" width="300"/>
+  <img src="Docs/StartedMonitoring.png" alt="Active Monitoring" width="300"/>
+  <img src="Docs/ShutdownTriggered.png" alt="Test Mode Triggered" width="300"/>
+</p>
 
 ---
 ## 🔐 Security
