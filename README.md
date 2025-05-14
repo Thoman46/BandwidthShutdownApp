@@ -37,7 +37,10 @@ A lightweight Windows utility that monitors your network bandwidth in real time 
 > ℹ️ Enable or disable test mode to simulate behavior without triggering an actual shutdown.
 
 ---
+### 🖼️ UI Screenshots
+![[/docs/AppLaunched.png]] ![[/docs/StartedMonitoring.png]] ![[/docs/ShutdownTriggered.png]]
 
+---
 ## 🔐 Security
 
 This application does **not** transmit data. It runs entirely offline and uses Windows APIs to access local bandwidth metrics.
