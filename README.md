@@ -38,9 +38,9 @@ A lightweight Windows utility that monitors your network bandwidth in real time 
 
 ---
 ### 🖼️ UI Screenshots
-![App Launched](docs/App20Launched.png)
-![Started Monitoring](docs/Started20Monitoring.png)
-![Shutdown Triggered](docs/Shutdown20Triggered.png)
+![App Launched](docs/AppLaunched.png)
+![Started Monitoring](docs/StartedMonitoring.png)
+![Shutdown Triggered](docs/ShutdownTriggered.png)
 
 ---
 ## 🔐 Security
